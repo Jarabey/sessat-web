@@ -12,4 +12,4 @@ You can view the live website at: [SESSAT Website](https://sessat.netlify.app/)
 
 - **HTML**: The standard markup language for creating web pages.
 - **Tailwind CSS**: A utility-first CSS framework that enables rapid design and customization.
-- **Flowbite**: A library of UI components built on top of Tailwind CSS, providing pre-designed components for enhanced functionality and aesthetics.
+- **Flowbite**: A library of UI components built on top of Tailwind CSS, providing pre-designed components for enhanced functionality.
